@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+}
+
+.nav {
+  height: 80px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f9f9f9;
+}
+.nav .fa-moon {
+  font-size: 2.1rem;
+  cursor: pointer;
+  transition: all 0.2s 0s ease-in;
+}
+.nav .fa-moon:hover {
+  color: rgb(182, 182, 182);
+}
+.nav .points {
+  display: inline;
+}
+.nav .points ul a {
+  margin: 40px;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: all 0.3s 0.1s ease;
+}
+.nav .points ul a:hover {
+  color: rgb(182, 182, 182);
+}
+
+main {
+  height: 90vh;
+}
+main .main_text .me {
+  color: #A7A7A7;
+}
+main .main_text .me span {
+  font-weight: lighter;
+}/*# sourceMappingURL=main.css.map */
