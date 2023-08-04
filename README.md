@@ -1,3 +1,6 @@
+# In first words, a little bit about React for those who are here for the first time with React:
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+# About the project
+
+This project was kind of hard, but taught me a lot. Show me the true purpose in programming that I want to achieve. This is my personal thoughts and now some real number and facts. 
+<br>
+
+## PROJECT OF MY WEBSITE IN REACT: 
+
+First of all, it was my first React website. Website was build with: <br>
+✅ Tailwind CSS, <br>
+✅ AnimateJS, <br>
+✅ ReactJS, <br>
+✅ NPM, <br>
+✅ NodeJS <br>
+<br>
+
+### PROJECT AND SKILLS THAT TAUGHT: <br>
