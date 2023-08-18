@@ -88,3 +88,4 @@ First of all, it was my first React website. Website was build with: <br>
 <br>
 
 ### PROJECT AND SKILLS THAT TAUGHT: <br>
+1. Using ReactJS with new features. <br>
