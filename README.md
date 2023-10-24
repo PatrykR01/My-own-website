@@ -89,3 +89,7 @@ First of all, it was my first React website. Website was build with: <br>
 
 ### PROJECT AND SKILLS THAT TAUGHT: <br>
 1. Using ReactJS with new features. <br>
+2. Using hooks ReactJS. <br>
+3. Setting up package.json. <br>
+4. Making site RWD. <br>
+5. Learned NodeJS, TailwindCSS and NPM. 
