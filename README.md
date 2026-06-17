@@ -1,5 +1,3 @@
-# In first words, a little bit about React for those who are here for the first time with React:
-<br>
 
 # Getting Started with Create React App
 
